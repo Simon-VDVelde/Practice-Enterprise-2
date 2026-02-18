@@ -3,3 +3,4 @@ Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=U_High Freq|SchDesignat
 Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=U_Sensors|SchDesignator=U_Sensors|FileName=Sensors.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=U_uController|SchDesignator=U_uController|FileName=uController.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=uController.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=NoMainPathDocument|SourceDocument=Root.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Root.SchDoc|FileName=Root.SchDoc|SheetNumber=6
